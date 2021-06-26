@@ -4,7 +4,7 @@
 
 Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
 
-* The source code is ![](string pangram.cpp)
+* The source code is  `string pangram.cpp`
 
 * Output:-
 <img src="Images/Capture.PNG" width="600">
