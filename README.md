@@ -2,16 +2,16 @@
 
 - #MAR #CODING_SOLUTION
 - Two Coding Solutions
-## Topic:- String Pangram
-- 1:- A pangram is a sentence where every letter of the English alphabet appears at least once.
+## 1-Topic:- String Pangram
+-  A pangram is a sentence where every letter of the English alphabet appears at least once.
      Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
 
 - The source code of `String Pangram` is present above :point_up: or press [here](https://github.com/rajbir21-droid/Code/blob/main/SortByBits.cpp) to get the code :smiley:
 
 - Output:-
   <img src="Images/Capture.PNG" width="600">
-## Topic:- Sort By Bits
-- 2:- Given an integer array arr. You have to sort the integers in the array in ascending order by the number of 1's in their binary representation and in case of two or more           integers have the same number of 1's you have to sort them in ascending order.Return the sorted array.
+## 2-Topic:- Sort By Bits
+- Given an integer array arr. You have to sort the integers in the array in ascending order by the number of 1's in their binary representation and in case of two or more           integers have the same number of 1's you have to sort them in ascending order.Return the sorted array.
 
 - The source code of `Sort By Bits` is present above :point_up: or press [here](https://github.com/rajbir21-droid/Code/blob/main/string%20pangram.cpp) to get the code 😃
 - Output:-
