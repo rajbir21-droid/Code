@@ -15,4 +15,5 @@ Given a string sentence containing only lowercase English letters, return true i
 
    Return the sorted array.
 * The source code is `SortBybits.cpp`
-* 
+* Output:-
+* ![image](https://user-images.githubusercontent.com/64858573/124394531-7f08b800-dd1d-11eb-923a-1c4f7486ddb8.png)
