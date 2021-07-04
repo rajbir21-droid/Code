@@ -5,7 +5,7 @@
 - 1:- A pangram is a sentence where every letter of the English alphabet appears at least once.
      Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
 
-- The source code is `string pangram.cpp` is above :point_up:
+- The source code is `string pangram.cpp` is above :point_up: or press [here](https://github.com/rajbir21-droid/Code/blob/main/SortByBits.cpp) to get the code :smiley:
 
 - Output:-
   <img src="Images/Capture.PNG" width="600">
