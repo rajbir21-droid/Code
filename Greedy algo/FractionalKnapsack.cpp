@@ -11,16 +11,14 @@ bool compare(pii p1,pii p2){
 
 int main(){
 	
-	int n;
-	cin>>n;
+	int n,w;
+	cin>>n>>w;
 	vector<pair<int,int>>a(n);
 	for(int i=0;i<n;i++){
 	cin>>a[i].ff>>a[i].ss;
 	}
-	int w;
-	cin>>w;
 	sort(a.begin(),a.end(),compare);
-	int ans=0;
+	double ans=0.0;
 	for(int i=0;i<n;i++){
 		if(w>=a[i].ss){
 			ans+=a[i].ff;
@@ -32,5 +30,6 @@ int main(){
 		w=0;
 		break;
 	}
+	cout.precision(10);
 	cout<<ans<<endl;
 }
